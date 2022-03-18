@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pkg_geometry"
+version = "0.0.1"
+description = "the package geometry permit to computed the metric of the geometries"
+authors = ["molierenguile-makao <moliere.nguile@gmail.com>"]
+license = "MIT"
+readme =  "README.md"
+homepage = "https://github.com/Molimak77/pkg_geometry"
+repository = "https://github.com/Molimak77/pkg_geometry"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
