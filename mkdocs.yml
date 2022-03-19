@@ -1,0 +1,8 @@
+site_name: pkg_geometry
+site_url: https://github.com/Molimak77/pkg_geometry
+nav:
+  - Home: index.md
+  - User Guide: userguide.md
+  - API: api_reference.md 
+
+theme: readthedocs
